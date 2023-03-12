@@ -1,0 +1,11 @@
+export 'authentication/auth_binding.dart';
+export 'blog/blog_binding.dart';
+export 'cart/cart_binding.dart';
+export 'dashboard/dashboard_binding.dart';
+export 'edit_account/cart_binding.dart';
+export 'location/location_binding.dart';
+export 'order/order_binding.dart';
+export 'product/catalog_binding.dart';
+export 'product/product_details_binding.dart';
+export 'profile/profile_binding.dart';
+export 'service/service_binding.dart';
